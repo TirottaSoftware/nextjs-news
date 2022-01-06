@@ -8,7 +8,6 @@ export default function Home() {
         <title>Next News</title>
       </Head>
       <h1>Next News</h1>
-      <button onClick={() => signIn("google")}>Sign In</button>
     </div>
   );
 }
